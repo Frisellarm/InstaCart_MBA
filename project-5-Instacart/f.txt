@@ -1,0 +1,3 @@
+C:\Users\Ryan Frisella\Documents\GenA\Capstone\.ipynb_checkpoints
+C:\Users\Ryan Frisella\Documents\GenA\Capstone\Data
+C:\Users\Ryan Frisella\Documents\GenA\Capstone\Original Data
